@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Build folders
+dist/
+build/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database
+*.db
+*.sqlite3
